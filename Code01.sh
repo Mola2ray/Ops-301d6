@@ -1,10 +1,10 @@
 #!/bin/bash
-#Ops301d6: Code Challenge-01
-#Author: Lamin Touray
-#Purpose: Create a bash script that:
+# Ops301d6: Code Challenge-01
+# Author: Lamin Touray
+# Purpose: Create a bash script that:
 
-#Copies /var/log/syslog to the current working directory
-#Appends the current date and time to the filename
+# Copies /var/log/syslog to the current working directory
+# Appends the current date and time to the filename
 
 cp /var/log/syslog ./
 
