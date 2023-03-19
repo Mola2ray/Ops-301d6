@@ -47,3 +47,5 @@ do
     echo "The compressed file is larger than the original file"
   fi
 done
+
+# Source: chatGPT
