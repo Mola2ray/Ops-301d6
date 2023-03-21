@@ -16,21 +16,21 @@
 
 
 # How to use Linux/Bash commands within Python
-# First import the os library
+# The Python module “os” must be utilized
 import os
 
 # Then use os.system to call any kind of bash command
-os.system("whoami")
-os.system("ip a")
-os.system("lshw -short")
+# At least three variables must be declared in Python that contain results of bash operations
+var1 = [os.system("whoami")]
+var2 = [os.system("ip a")]
+var3 = [os.system("lshw -short")]
 
 
-# Here are some Python-specific operations for you to practice
-# How to print to terminal
-print("Welcome to Python!")
+# The Python function print() must be used at least three times
+print (var1)
+print (var2)
+print (var3)
 
-# How to declare a variable
-var_greeting = "Welcome to Python!"
 
-# How to call a variable
-print(var_greeting)
+
+
