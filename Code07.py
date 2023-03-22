@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# Script: Ops301d6 Challenge-06
+# Script: Ops301d6 Challenge-07
 # Author: Lamin Touray
 # Purpose: Create a Python script that generates all directories, sub-directories and files for a user-provided directory path.
 
