@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # Script: Ops301d6 Challenge-09
 # Author: Lamin Touray
-# Purpose: 
+# Purpose: Create if statements using these logical conditionals below. 
 
 
 
