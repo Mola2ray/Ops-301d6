@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# Script: Ops301d6 Challenge-07
+# Script: Ops301d6 Challenge-09
 # Author: Lamin Touray
 # Purpose: Using file handling commands, create a Python script that creates a new .txt file, appends three lines, prints to the screen the first line, then deletes the .txt file
 
