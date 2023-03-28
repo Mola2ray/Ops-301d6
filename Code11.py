@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# Script: Ops301d6 Challenge-09
+# Script: Ops301d6 Challenge-10
 # Author: Lamin Touray
 # Purpose: Create a Python script that fetches this information using Psutil:
 
