@@ -1,3 +1,19 @@
+#!/usr/bin/env python3
+# Script: Ops301d6 Challenge-11
+# Author: Lamin Touray
+# Purpose: Create a Python script that performs the following:
+
+# Prompt the user to type a string input as the variable for your destination URL.
+
+# Prompt the user to select a HTTP Method of the following options:
+# GET
+# POST
+# PUT
+# DELETE
+# HEAD
+# PATCH
+# OPTIONS
+
 import requests
 
 destination_url = input("Enter the destination URL: ")
