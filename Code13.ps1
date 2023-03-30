@@ -33,3 +33,6 @@ New-ADUser -Name $displayName -GivenName $givenName -Surname $surname `
 
 # Verify the user is created and has the correct attributes
 Get-ADUser -Identity $SamAccountName -Properties * | Format-List -Property Name, GivenName, Surname, DisplayName, Department, Title, Company, Office, EmailAddress
+
+
+# Source: chatGPT
